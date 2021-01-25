@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "506347910369",
+    "firebase_url": "https://hackthenorth-69a1d-default-rtdb.firebaseio.com",
+    "project_id": "hackthenorth-69a1d",
+    "storage_bucket": "hackthenorth-69a1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506347910369:android:91d67e5433e0c9d84cf3a0",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506347910369-ddho1q71mn3944le3n4q6vbs89m408g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkaWsCFr-nWh_TYA1q09oaRFA9aq8rSDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506347910369-ddho1q71mn3944le3n4q6vbs89m408g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506347910369:android:03662d2467aa2dd54cf3a0",
+        "android_client_info": {
+          "package_name": "com.example.hackthenorth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506347910369-ddho1q71mn3944le3n4q6vbs89m408g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkaWsCFr-nWh_TYA1q09oaRFA9aq8rSDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506347910369-ddho1q71mn3944le3n4q6vbs89m408g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
